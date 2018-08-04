@@ -6,4 +6,8 @@
 //  Copyright © 2018 Timothy Dement. All rights reserved.
 //
 
-import Foundation
+import SpriteKit
+
+class GameManager {
+        
+}
